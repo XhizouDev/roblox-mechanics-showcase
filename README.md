@@ -13,13 +13,13 @@ It includes:
 
 ## 📦 Included Projects
 
-### 🐆 Pantharas Age
+### 🐆 [Pantharas Age](docs/pantharas-age.md)
 An open-world RPG playable prototype focused on exploration, player progression, and core RPG systems.
 
-### 🎮 Cruzaders Madness Classic
+### 🎮 [Cruzaders Madness Classic](docs/cruzaders-madness-classic.md)
 A complete 3D arcade platform fighting game with multiple characters, maps, and game modifiers.
 
-### ⚔️ Cruzaders Madness Remastered
+### ⚔️ [Cruzaders Madness Remastered](docs/cruzaders-madness-remastered.md)
 A playable 2.5D platform fighting prototype with a strong focus on refined mechanics and narrative-driven gameplay.
 
 ---
