@@ -64,4 +64,4 @@ These projects emphasize gameplay programming and systems-oriented development r
 This repository is oriented as a **technical portfolio**, not as a commercial project.
 Some assets were omitted or simplified for code clarity.
 
-Please refer to the documentation pages for detailed breakdowns of each project and implemented systems.
+Each project includes its own Markdown documentation page; please refer to them for detailed breakdowns of systems and implementation.
