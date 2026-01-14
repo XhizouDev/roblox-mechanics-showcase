@@ -14,10 +14,12 @@ It includes:
 ## 📦 Included Projects
 
 ### 🐆 [Pantharas Age](docs/pantharas-age.md)
-An open-world RPG playable prototype focused on exploration, player progression, and core RPG systems.
+An open-world RPG playable prototype focused on exploration, player progression, and core RPG systems.\
+[Game Design Post on **Behance**](https://www.behance.net/gallery/241614507/Pantharas-Age-Open-World-RPG-Level-Design-%28Roblox%29)
 
 ### 🎮 [Cruzaders Madness Classic](docs/cruzaders-madness-classic.md)
-A complete 3D arcade platform fighting game with multiple characters, maps, and game modifiers.
+A complete 3D arcade platform fighting game with multiple characters, maps, and game modifiers.\
+[Game Documentation Post on **Behance**](https://www.behance.net/gallery/241948641/Cruzaders-Madness-Classic-Platform-Fighting-Arcade)
 
 ### ⚔️ [Cruzaders Madness Remastered](docs/cruzaders-madness-remastered.md)
 A playable 2.5D platform fighting prototype with a strong focus on refined mechanics and narrative-driven gameplay.
