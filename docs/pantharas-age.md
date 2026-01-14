@@ -45,7 +45,9 @@ This system does not have a dedicated showcase video, as its effect is present i
 **Setup:**
 The system setup within Roblox Studio consists of a single `LocalScript` placed inside  
 `StarterPlayer > StarterCharacterScripts`, as shown below.
-![Camera Shake Setup](../assets/setups/pantharas-age/CamShakeSetup.png)
+<p align="center">
+  <img src="../assets/setups/pantharas-age/CamShakeSetup.png" width="750">
+</p>
 
 ---
 
@@ -60,7 +62,9 @@ A player movement state system allowing seamless transitions between standing, c
 
 **Setup:**
 This system is configured as a `LocalScript` under `StarterPack`, referencing separate `Animation` assets for crouching and crawling, as illustrated below.
-![Crouch & Crawl Setup](../assets/setups/pantharas-age/CrouchCrawlSetup.png)
+<p align="center">
+  <img src="../assets/setups/pantharas-age/CrouchCrawlSetup.png" width="750">
+</p>
 
 🎥 **Video Showcase:**  
 [Vimeo – Crouch & Crawl System](https://vimeo.com/1153077635)
@@ -79,12 +83,16 @@ A modular dialogue system that enables NPC interaction through configurable dial
 **System Logic Setup:**
 This system is implemented as a `ScreenGui` located in `StarterGui`, containing the required audio assets, logic scripts, and UI elements.  
 The visual interface is composed of two `TextLabel` components, as shown below.
-![NPC Chat System Setup](../assets/setups/pantharas-age/BackendChatSetup.png)
+<p align="center">
+  <img src="../assets/setups/pantharas-age/BackendChatSetup.png" width="750">
+</p>
 
 **Dialogue Configuration per NPC:**
 For this system to function correctly, each interactable NPC must be included in a `Folder` inside the `Workspace` within Roblox Studio containing a `Folder` named "Lines" and all dialogue entries as `StringValue` objects.  
 Each `StringValue` should be named according to its order in the dialogue sequence, as shown below.
-![NPC Dialogue Setup](../assets/setups/pantharas-age/NPCSetup.png)
+<p align="center">
+  <img src="../assets/setups/pantharas-age/NPCSetup.png" width="750">
+</p>
 
 🎥 **Video Showcase:**  
 [Vimeo – NPC Dialogue System](https://vimeo.com/1153076272)
