@@ -24,13 +24,13 @@ The project was created as an independent design and programming exercise, with 
 
 This documentation focuses on the **core gameplay systems implemented for Pantharas Age**, showcasing how each mechanic is structured, configured, and integrated within Roblox Studio.
 
-All project-specific scripts are tagged with the **[PA]** prefix for clarity.
+All project-specific scripts are tagged with the **[PA]** prefix for clarity. Scripts without a project tag are designed as **shared or reusable systems** across multiple projects.
 
 ---
 
 ## Implemented Systems
 
-### 📷 Camera Shake System <a id="camera-shake-system"></a>
+### 📷 Camera Shake System <a id="-camera-shake-system-"></a>
 **Script:** `[PA]Cam_Shake_Script.lua`
 
 A camera feedback system designed to enhance realism by introducing subtle camera movement while the player walks and moves through the environment.
@@ -51,7 +51,7 @@ The system setup within Roblox Studio consists of a single `LocalScript` placed 
 
 ---
 
-### 🧍 Crouch & Crawl System <a id="crouch--crawl-system"></a>
+### 🧍 Crouch & Crawl System <a id="-crouch--crawl-system-"></a>
 **Script:** `[PA]CrouchCrawl_Script.lua`
 
 A player movement state system allowing seamless transitions between standing, crouching, and crawling states.
@@ -71,7 +71,7 @@ This system is configured as a `LocalScript` under `StarterPack`, referencing se
 
 ---
 
-### 💬 NPC Dialogue System <a id="npc-dialogue-system"></a>
+### 💬 NPC Dialogue System <a id="-npc-dialogue-system-"></a>
 **Script:** `[PA]NPC_Chat_Script.lua`
 
 A modular dialogue system that enables NPC interaction through configurable dialogue data and UI elements.
@@ -99,10 +99,10 @@ Each `StringValue` should be named according to its order in the dialogue sequen
 
 ---
 
-### ⚡ Lightning Strike Ability <a id="lightning-strike-ability"></a>
-**Script:** `LightningStrike.lua`
+### ⚡ Lightning Strike Ability <a id="-lightning-strike-ability-"></a>
+**Script:** `LightningStrike.lua` (LocalScript + ServerScript)
 
-A gameplay ability that triggers a lightning storm effect, originally implemented for Pantharas Age and later reused in [**Cruzaders Madness Classic**](docs/cruzaders-madness-classic.md).
+A gameplay ability that triggers a lightning storm effect, originally implemented for Pantharas Age and later reused in [**Cruzaders Madness Classic**](../docs/cruzaders-madness-classic.md).
 
 - Uses a LocalScript, ServerScript, and RemoteEvent architecture
 - Designed for reuse across different projects
