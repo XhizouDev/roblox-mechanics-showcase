@@ -265,10 +265,7 @@ All characters include a **Data** folder located within `StarterCharacterScripts
 
 ## Media & Showcases
 
-All gameplay showcases are recorded in-engine and hosted externally.
-
-* Individual systems include placeholders for video links
-* Media demonstrates real gameplay scenarios and ability execution
+All video showcases are hosted on **Vimeo** and demonstrate real in-engine gameplay using the documented systems.
 
 ---
 
