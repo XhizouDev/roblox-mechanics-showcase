@@ -39,7 +39,7 @@ All project-specific scripts are tagged with the **[CMC]** prefix. Scripts witho
 
 ### 🛡️ Blocking System <a id="-blocking-system-"></a>
 
-**Scripts:** `[CMC]Block.lua` (LocalScript + ServerScript)
+**Scripts:** [`[CMC]Block.lua`](../[CMC]Block.lua]) (LocalScript + ServerScript)
 
 A defensive combat system allowing players to block incoming damage by holding the **F** key.
 
@@ -61,7 +61,7 @@ If the player attempts to block during cooldown, only the blocking animation is 
 
 ### 💥 Damage Indicator System <a id="-damage-indicator-system-"></a>
 
-**Script:** `[CMC]DamageIndicator.lua`
+**Script:** [`[CMC]DamageIndicator.lua`](../[CMC]DamageIndicator.lua])
 
 A visual feedback system that displays floating damage numbers whenever a player receives damage.
 
@@ -84,7 +84,7 @@ In the video showcase for this system, the project-agnostic script named [Lightn
 
 ### 🦘 Double Jump System <a id="-double-jump-system-"></a>
 
-**Script:** `[CMC]DoubleJump.lua`
+**Script:** [`[CMC]DoubleJump.lua`](../[CMC]DoubleJump.lua])
 
 A movement enhancement system allowing players to perform an additional jump while airborne.
 
@@ -104,7 +104,7 @@ A movement enhancement system allowing players to perform an additional jump whi
 
 ### ⚡ Elektriker Zap Ability <a id="-elektriker-zap-ability-"></a>
 
-**Scripts:** `[CMC]ElektrikerZap.lua` (LocalScript + ServerScript)
+**Scripts:** [`[CMC]ElektrikerZap.lua`](../[CMC]ElektrikerZap.lua]) (LocalScript + ServerScript)
 
 A ranged offensive ability used by the **Elektriker** character.
 
@@ -125,7 +125,7 @@ A ranged offensive ability used by the **Elektriker** character.
 
 ### 🗡️ Excalibur Special Ability <a id="-excalibur-special-ability-"></a>
 
-**Script:** `[CMC]ExcaliburSpecial.lua`
+**Script:** [`[CMC]ExcaliburSpecial.lua`](../[CMC]ExcaliburSpecial.lua])
 
 A special ability used by the **Wurdig** character.
 
@@ -150,7 +150,7 @@ A special ability used by the **Wurdig** character.
 
 ### 🔥 Fireball Ability <a id="-fireball-ability-"></a>
 
-**Scripts:** `[CMC]FireBall.lua` (LocalScript + ServerScript)
+**Scripts:** [`[CMC]FireBall.lua`](../[CMC]FireBall.lua) (LocalScript + ServerScript)
 
 A charged projectile ability used by the **Ledern** character.
 
@@ -178,7 +178,7 @@ To enhance the visual effects and overall impact of this ability, an open-source
 
 ### 🔥 Fire Spear Ability <a id="-fire-spear-ability-"></a>
 
-**Scripts:** `[CMC]FireSpear.lua` (LocalScript + ServerScript)
+**Scripts:** [`[CMC]FireSpear.lua`](../[CMC]FireSpear.lua) (LocalScript + ServerScript)
 
 A thrown weapon ability used by the **Ledern** character.
 
@@ -201,7 +201,7 @@ The fire spear model is stored separately in `ServerStorage` and cloned at runti
 
 ### ❄️ Freize Ice Attack System <a id="-freize-ice-attack-system-"></a>
 
-**Script:** `[CMC]FreizeAttacksScript.lua`
+**Script:** [`[CMC]FreizeAttacksScript.lua`](../[CMC]FreizeAttacksScript.lua)
 
 A reusable combat system powering both abilities of the **Freize** character.
 
@@ -228,7 +228,7 @@ Each ability `Model`s cloned and spawned at runtime are stored in `ReplicatedSto
 
 ### 🏹 Knife / Arrow Throw System <a id="-knife--arrow-throw-system-"></a>
 
-**Script:** `[CMC]KnifeThrow.lua`
+**Script:** [`[CMC]KnifeThrow.lua`](../[CMC]KnifeThrow.lua)
 
 A charge-based projectile system reused for both abilities of the **Jager** character.
 

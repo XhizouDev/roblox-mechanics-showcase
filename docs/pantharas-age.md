@@ -31,7 +31,7 @@ All project-specific scripts are tagged with the **[PA]** prefix for clarity. Sc
 ## Implemented Systems
 
 ### 📷 Camera Shake System <a id="-camera-shake-system-"></a>
-**Script:** `[PA]Cam_Shake_Script.lua`
+**Script:** [`[PA]Cam_Shake_Script.lua`](../[PA]Cam_Shake_Script.lua)
 
 A camera feedback system designed to enhance realism by introducing subtle camera movement while the player walks and moves through the environment.
 
@@ -52,7 +52,7 @@ The system setup within Roblox Studio consists of a single `LocalScript` placed 
 ---
 
 ### 🧍 Crouch & Crawl System <a id="-crouch--crawl-system-"></a>
-**Script:** `[PA]CrouchCrawl_Script.lua`
+**Script:** [`[PA]CrouchCrawl_Script.lua`](../[PA]CrouchCrawl_Script.lua])
 
 A player movement state system allowing seamless transitions between standing, crouching, and crawling states.
 
@@ -72,7 +72,7 @@ This system is configured as a `LocalScript` under `StarterPack`, referencing se
 ---
 
 ### 💬 NPC Dialogue System <a id="-npc-dialogue-system-"></a>
-**Script:** `[PA]NPC_Chat_Script.lua`
+**Script:** [`[PA]NPC_Chat_Script.lua`](../[PA]NPC_Chat_Script.lua])
 
 A modular dialogue system that enables NPC interaction through configurable dialogue data and UI elements.
 
@@ -100,7 +100,7 @@ Each `StringValue` should be named according to its order in the dialogue sequen
 ---
 
 ### ⚡ Lightning Strike Ability <a id="-lightning-strike-ability-"></a>
-**Script:** `LightningStrike.lua` (LocalScript + ServerScript)
+**Script:** [`LightningStrike.lua`](../LightningStrike.lua) (LocalScript + ServerScript)
 
 A gameplay ability that triggers a lightning storm effect, originally implemented for Pantharas Age and later reused in [**Cruzaders Madness Classic**](../docs/cruzaders-madness-classic.md).
 
