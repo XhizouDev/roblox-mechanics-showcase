@@ -24,14 +24,6 @@ game.Players.PlayerAdded:Connect(function(plr)
 					
 				end
 				
-				--local Folder = Instance.new("Folder")
-				--Folder.Name = plr.Name.."HealthLossIndicator"
-				--Folder.Parent = workspace
-				
-				--local anchor = part:Clone()
-				--anchor.Parent = Folder
-				--anchor.CFrame = char.HumanoidRootPart.CFrame
-				
 				local damageIndicatorGui = Instance.new("BillboardGui")
 				damageIndicatorGui.AlwaysOnTop = true
 
@@ -83,7 +75,6 @@ game.Players.PlayerAdded:Connect(function(plr)
 				textStrokeFadeTween:Play()
 
 				game:GetService("Debris"):AddItem(damageIndicatorGui, 0.3)
-				--game:GetService("Debris"):AddItem(Folder, 0.3)
 				
 			elseif currentHealth < health and humanoid:GetState() ~= Enum.HumanoidStateType.Dead then
 				
@@ -91,14 +82,6 @@ game.Players.PlayerAdded:Connect(function(plr)
 				local healthGain = math.floor(health - currentHealth)
 				
 				if healthGain > 1 then
-					
-					--local Folder = Instance.new("Folder")
-					--Folder.Name = plr.Name.."HealthGainIndicator"
-					--Folder.Parent = workspace
-
-					--local anchor = part:Clone()
-					--anchor.Parent = Folder
-					--anchor.CFrame = char.HumanoidRootPart.CFrame
 					
 					local damageIndicatorGui = Instance.new("BillboardGui")
 					damageIndicatorGui.AlwaysOnTop = true
@@ -151,7 +134,6 @@ game.Players.PlayerAdded:Connect(function(plr)
 					textStrokeFadeTween:Play()
 
 					game:GetService("Debris"):AddItem(damageIndicatorGui, 0.3)
-					--game:GetService("Debris"):AddItem(Folder, 0.3)
 					
 				end
 				

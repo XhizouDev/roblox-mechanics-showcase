@@ -16,7 +16,6 @@
     - [❄️ Freize Ice Attack System ](#️-freize-ice-attack-system-)
     - [🏹 Knife / Arrow Throw System ](#-knife--arrow-throw-system-)
   - [Shared Character State Architecture](#shared-character-state-architecture)
-  - [Media \& Showcases](#media--showcases)
   - [Notes on Reusability](#notes-on-reusability)
 
 ## Overview
@@ -260,12 +259,6 @@ All characters include a **Data** folder located within `StarterCharacterScripts
 <p align="center">
   <img src="../assets/setups/cruzaders-madness-classic/DataSetup.png" width="750">
 </p>
-
----
-
-## Media & Showcases
-
-All video showcases are hosted on **Vimeo** and demonstrate real in-engine gameplay using the documented systems.
 
 ---
 

@@ -10,7 +10,6 @@
     - [🧍 Crouch \& Crawl System ](#-crouch--crawl-system-)
     - [💬 NPC Dialogue System ](#-npc-dialogue-system-)
     - [⚡ Lightning Strike Ability ](#-lightning-strike-ability-)
-  - [Media \& Showcases](#media--showcases)
   - [Notes on Reusability](#notes-on-reusability)
 
 ## Overview
@@ -113,12 +112,6 @@ A gameplay ability that triggers a lightning storm effect, originally implemente
 
 📌 *Note:*  
 This system is intentionally untagged, as it functions as a shared, project-agnostic gameplay module.
-
----
-
-## Media & Showcases
-
-All video showcases are hosted on **Vimeo** and demonstrate real in-engine gameplay using the documented systems.
 
 ---
 
