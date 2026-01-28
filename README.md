@@ -51,6 +51,17 @@ These projects emphasize gameplay programming and systems-oriented development r
 
 ---
 
+## 📏 Project Timeline & Skill Progression
+
+All projects included in this repository were developed several years ago as part of my early-to-mid professional growth as a gameplay programmer and game designer.
+The most recent project showcased here was **discontinued in 2023**, and active development on these systems has since ended.
+
+Since that time, I have significantly improved my scripting skills, architectural decision-making, and overall technical approach to gameplay systems.
+
+This repository should therefore be understood as a historical technical showcase, illustrating my foundations in system-driven game development rather than a direct representation of my current technical level.
+
+---
+
 ## 🛠️ Technologies and Skills
 
 - Roblox Studio

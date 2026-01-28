@@ -18,7 +18,8 @@
     - [⚡ Sprint \& Stamina System ](#-sprint--stamina-system-)
   - [Shared \& Project-Agnostic Systems](#shared--project-agnostic-systems)
     - [📚 Dictionary Utility Module ](#-dictionary-utility-module-)
-  - [Player Spawn \& State Architecture](#player-spawn--state-architecture)
+  - [Player Spawn \& State Architecture ](#player-spawn--state-architecture-)
+  - [Extra Media \& Showcases ](#extra-media--showcases-)
   - [Notes on Reusability](#notes-on-reusability)
 
 ## Overview
@@ -283,7 +284,7 @@ And for the stamina charging part of the system, there is a `Script` located in 
 
 ## Shared & Project-Agnostic Systems
 
-### 📚 Dictionary Utility Module <a id="-dictionary-utility-module"></a>
+### 📚 Dictionary Utility Module <a id="-dictionary-utility-module-"></a>
 
 **Script:** [`Dictionary.lua`](../Dictionary.lua) (ModuleScripts)
 
@@ -296,7 +297,7 @@ Works using two server-sided `ModuleScript`
 
 ---
 
-## Player Spawn & State Architecture
+## Player Spawn & State Architecture <a id="player-spawn--state-architecture"></a>
 
 **Script:** [`[CMR]PlayerSpawning.lua`](../[CMR]PlayerSpawning.lua)
 
@@ -311,10 +312,24 @@ Manages player initialization, shared state, and visual setup.
 **Setup:**
 This player setup process works with a single Server `Script` located in `ServerScriptService`.
 
-**Player Result Setup:**
+**Player Setup Result:**
 <p align="center">
   <img src="../assets/setups/cruzaders-madness-remastered/EntitiesSetup.png" width="750">
 </p>
+
+---
+
+## Extra Media & Showcases <a id="media--showcases"></a>
+
+For this project, a [Full Gameplay Match has been uploaded to **YouTube**](https://www.youtube.com/watch?v=D92UzZioSF0), showcasing the documented systems and mechanics operating in real gameplay scenarios with multiple players.
+Direct links and timestamps are provided to allow quick access to specific system showcases.
+
+- [Combat Master Transformation, Dialogue System & Floor VFX](https://youtu.be/D92UzZioSF0?si=n8qvyPBhMPtGQFva&t=225)
+- [Stamina Charging](https://youtu.be/D92UzZioSF0?si=RT96333i3QqtgVAR&t=200)
+
+**Disclaimer:**
+Some assets, such as animations, were not created by me. Additionally, minor bugs, glitches, or inconsistencies may be visible in isolated arcade-mode elements (e.g., other players’ health bars, timers, loading screens, or victory screens).
+This project was developed between 2022 and 2023, and as such, the showcased gameplay may not fully reflect my current scripting skills or technical proficiency.
 
 ---
 
