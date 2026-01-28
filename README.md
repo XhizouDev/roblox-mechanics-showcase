@@ -23,6 +23,7 @@ A complete 3D arcade platform fighting game with multiple characters, maps, and 
 
 ### ⚔️ [Cruzaders Madness Remastered](docs/cruzaders-madness-remastered.md)
 A playable 2.5D platform fighting prototype with a strong focus on refined mechanics and narrative-driven gameplay.
+[Gameplay Video Showcase on **Youtube**](https://www.youtube.com/watch?v=D92UzZioSF0)
 
 ---
 
